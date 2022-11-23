@@ -1,0 +1,23 @@
+.title{
+    font-weight: bold;
+}
+#title1{
+    font-size: 30px;
+}
+#title2{
+    font-size: 25px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.header{
+    font-weight: bold;
+    font-size: 22px;
+}
+.pic{
+    width: 600px;
+}
+#sus{
+    width: 100px;
+}
